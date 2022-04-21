@@ -1,3 +1,3 @@
 DATAPRE Notebooks
 
-This is a repository which contains my submissiong for the course requirements
+This is a repository which contains my submissions for the course requirements
