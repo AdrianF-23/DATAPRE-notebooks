@@ -1,6 +1,3 @@
-#DATAPRE Notebook
-Repository for the course requirements
+DATAPRE Notebooks
 
-Change 1
-
-update change 2
+This is a repository which contains my submissiong for the course requirements
